@@ -20,7 +20,17 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+```pwd : print working directory
+mkdir : create directory
+rmdir : delete empty directory
+touch : create a file
+rm    : delete a file
+mv    : rename or move a file
+ls -a : list all including hidden files
+cp    : copy a file
+cd    : change directory
+chmod : change permission
+```
 
 ---
 
@@ -35,8 +45,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+```ls : list files
+ls -a : list all files
+ls -l : list files with long detail
+ls -lh: list files with 'human readable' detail
+ls - lah : list all files with 'human readable' detail
+ls -t    : list files ordered on creation time
+```
 ---
 
 ### Q3.  More List Files in Unix  
