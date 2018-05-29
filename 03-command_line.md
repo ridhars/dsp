@@ -58,7 +58,9 @@ ls -t    : list files ordered on creation time
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ```ls -a
+ls -t
+ls -
 
 ---
 
