@@ -76,7 +76,9 @@ What does `xargs` do? Give an example of how to use it.
 
 >>>
 xargs are usually used to pass **a multiple or long list** into another command
+
 e.g. (as taken from Wikipedia): chaining xargs with rm to **remove list of files**
+
 find . | xargs rm
 
  
