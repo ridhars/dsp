@@ -79,6 +79,7 @@ There's four basic commands you should get familiar with:
 
 Let's put this all together now!
 
+Test to commit
 
 ### 2a. `git status`
 
