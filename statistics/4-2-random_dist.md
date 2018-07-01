@@ -17,9 +17,9 @@ cdf_randomval = thinkstats2.Cdf(randomval)
 thinkplot.Pmf(pmf_randomval)
 thinkplot.Config(xlabel='Random value', ylabel='PMF')
 ```
-!(https://github.com/ridhars/dsp/blob/master/statistics/PMF_Random.png)
+![](https://github.com/ridhars/dsp/blob/master/statistics/PMF_Random.png)
 ```python
 thinkplot.Cdf(cdf_randomval)
 thinkplot.Config(xlabel='Random value', ylabel='CDF')
 ```
-[alt text](https://github.com/ridhars/dsp/blob/master/statistics/CDF_random.png)
+![](https://github.com/ridhars/dsp/blob/master/statistics/CDF_random.png)
