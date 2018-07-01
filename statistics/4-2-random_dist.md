@@ -23,3 +23,7 @@ thinkplot.Cdf(cdf_randomval)
 thinkplot.Config(xlabel='Random value', ylabel='CDF')
 ```
 ![](https://github.com/ridhars/dsp/blob/master/statistics/CDF_random.png)
+
+Yes, both plots confirm the distribution are uniform.
+PMF Plot -> shows individual probability for each value, hence we see all values equally have 0.001 probability.
+CDF Plot -> approximately resembles a linear, straight line hence a uniform distribution.
