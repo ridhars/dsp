@@ -94,6 +94,7 @@ P(A) P(B|A) = P(B) P(A|B)
 P(B|A) = P(B) P(A|B) / P(A)
 P(identical|twin-brother) = P(identical) P(twin-brother|identical) / P(twin-brother)
 P(identical|twin-brother) = 1/300 * 1/2 / ( 1/2 * 1/300 + 1/4 * 1/125 )
+P(identical|twin-brother) = 5/11
 ```
 ---
 
